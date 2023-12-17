@@ -1,0 +1,420 @@
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.csproj.AssemblyReference.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\App.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project_MarkupCompile.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project_MarkupCompile.lref
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\project.exe
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\project.deps.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\project.runtimeconfig.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.g.resources
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.AssemblyInfoInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.AssemblyInfo.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.csproj.CoreCompileInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\refint\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.genruntimeconfig.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\ref\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project_Content.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Images\logo.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Images\notification.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\showAllKdaya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\showAllKdaya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\allUsersUpdates.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\allUsersUpdates.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\ShowAllUsers.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\ShowAllUsers.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AddNewUser.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AddNewUser.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\LoginForm.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\LoginForm.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Images\search.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AddNewKadya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AddNewKadya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdmin.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdmin.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdminn.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdminn.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdmin2.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\AccessByAdmin2.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\CreateAppointments.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\CreateAppointments.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\obj\Debug\net7.0-windows\project.csproj.CopyComplete
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Humanizer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\project.exe
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Images\logo.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Images\notification.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Images\search.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\project.deps.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\project.runtimeconfig.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Humanizer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.csproj.AssemblyReference.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdmin.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdmin2.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdminn.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AddNewKadya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AddNewUser.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\allUsersUpdates.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\CreateAppointments.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\LoginForm.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\showAllKdaya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\ShowAllUsers.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\App.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project_Content.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project_MarkupCompile.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project_MarkupCompile.lref
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdmin.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdmin2.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AccessByAdminn.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AddNewKadya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\AddNewUser.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\allUsersUpdates.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\CreateAppointments.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\LoginForm.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\showAllKdaya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\ShowAllUsers.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.g.resources
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.AssemblyInfoInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.AssemblyInfo.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.csproj.CoreCompileInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.csproj.CopyComplete
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\refint\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\project.genruntimeconfig.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project copy without database\project\obj\Debug\net7.0-windows\ref\project.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\project.exe
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Images\logo.png
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Images\notification.png
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Images\search.png
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\project.deps.json
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\project.runtimeconfig.json
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\project.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\project.pdb
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Humanizer.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI WPF\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.AssemblyReference.cache
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin2.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdminn.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AddNewKadya.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AddNewUser.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\allUsersUpdates.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\CreateAppointments.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\LoginForm.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\showAllKdaya.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\ShowAllUsers.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\App.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project_Content.g.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project_MarkupCompile.cache
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project_MarkupCompile.lref
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin2.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdminn.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AddNewKadya.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\AddNewUser.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\allUsersUpdates.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\CreateAppointments.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\LoginForm.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\showAllKdaya.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\ShowAllUsers.baml
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.g.resources
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.AssemblyInfoInputs.cache
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.AssemblyInfo.cs
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.CoreCompileInputs.cache
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.CopyComplete
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.dll
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\refint\project.dll
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.pdb
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\project.genruntimeconfig.cache
+D:\ITI WPF\Gada Project\project\obj\Debug\net7.0-windows\ref\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\project.exe
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Images\logo.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Images\notification.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Images\search.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\project.deps.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\project.runtimeconfig.json
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Humanizer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.AssemblyReference.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin2.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdminn.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AddNewKadya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AddNewUser.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\allUsersUpdates.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\CreateAppointments.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\LoginForm.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\showAllKdaya.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\ShowAllUsers.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\App.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project_Content.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project_MarkupCompile.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project_MarkupCompile.lref
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdmin2.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AccessByAdminn.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AddNewKadya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\AddNewUser.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\allUsersUpdates.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\CreateAppointments.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\LoginForm.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\showAllKdaya.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\ShowAllUsers.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.g.resources
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.AssemblyInfoInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.AssemblyInfo.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.CoreCompileInputs.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.csproj.CopyComplete
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\refint\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.pdb
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\project.genruntimeconfig.cache
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\ref\project.dll
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\ShowSelectedCaseInfo.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\ShowSelectedCaseInfo.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\UpdateUser.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\UpdateUser.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\SelectedImage.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\SelectedImage.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\NotifactionCases.g.cs
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\obj\Debug\net7.0-windows\NotifactionCases.baml
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\Images\bell.png
+D:\ITI materials\freelancer\freelance job\موقع خاص بمكتب المحاماة\project\project working\Gada Project\project\bin\Debug\net7.0-windows\AdonisUI.dll

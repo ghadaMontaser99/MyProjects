@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="project.AccessByAdmin2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:project"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="800">
+    <Grid Background="White">
+        <Viewbox>
+            <Grid>
+
+
+                <StackPanel Grid.Column="1">
+                    <TextBlock FontSize="20" FontWeight="DemiBold" TextAlignment="Center" FontFamily="Times New Roman">Mr Ramy Abdelfatah</TextBlock>
+
+                    <TextBlock FontSize="15" Margin="100 15 0 0" FontFamily="Traditional Arabic" FontWeight="Bold" Height="22" Width="128">:الرقم السـري</TextBlock>
+                    <!--<TextBox Margin="0 5 0 0" Height="23" TextAlignment="Right"></TextBox>-->
+                    <PasswordBox Height="32" Width="200"  Margin="22,28,28,0" 
+         Name="passwordBox1" VerticalAlignment="Top" FontSize="25" 
+         MaxLength="25" PasswordChar="*" 
+         />
+                    <Border Width="70" Cursor="Hand" BorderBrush="SkyBlue" Background="SkyBlue" CornerRadius="15" Height="25" Margin="0 10 0 0" >
+                        <Button  Background="Transparent" Name="loginBtn" Click="loginBtn_Click" BorderThickness="0 0 0 0">
+                            <Button.Content >
+                               
+                                    <TextBlock Margin="0 0 0 0"   FontSize="15" TextAlignment="Center" FontFamily="Times New Roman" >الدخول</TextBlock>
+                               
+                            </Button.Content>
+                        </Button>
+                    </Border>
+                   
+
+                </StackPanel>
+            </Grid>
+        </Viewbox>
+
+    </Grid>
+</UserControl>

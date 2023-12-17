@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AccessByAdmin2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AccessByAdminn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddNewKadya.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddNewUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="allUsersUpdates.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateAppointments.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NotifactionCases.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelectedImage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="showAllKdaya.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowAllUsers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowSelectedCaseInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AccessByAdmin2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AccessByAdminn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddNewKadya.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddNewUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="allUsersUpdates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CreateAppointments.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NotifactionCases.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SelectedImage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="showAllKdaya.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowAllUsers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowSelectedCaseInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
